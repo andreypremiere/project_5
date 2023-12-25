@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="check_value">Проверить</string>
+    <string name="add_word">Добавить слово</string>
+    <string name="eng_word">Введите английское слово</string>
+    <string name="tr_word">Введите перевод</string>
+    <string name="back">Назад</string>
+</resources>
